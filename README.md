@@ -1,1 +1,1 @@
-#Wszystkie pliki w znajdują się odpowiednich gałęziach
+# Wszystkie pliki w znajdują się odpowiednich gałęziach
